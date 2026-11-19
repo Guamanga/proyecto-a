@@ -28,3 +28,10 @@ Este es un _**ejemplo de combinación**_
 * Rojo
 * Verde
 
+# Ejemplo de una lista enumerada: Pilotos de F1
+
+1. Kimi Antonelli
+2. Max Verstappen
+3. Fernando Alonso
+4. Charles LeClerc
+   
