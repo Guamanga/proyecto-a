@@ -83,3 +83,6 @@ A | B | A XOR B
 # Ejemplos de emojis
 
 :+1: :octocat: :grin: :metal: :camel:
+
+### Y eso es todo, amigos!
+
