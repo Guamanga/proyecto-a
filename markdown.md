@@ -23,8 +23,8 @@ Este es un _**ejemplo de combinación**_
 
 # Ejemplo de lista con viñetas: Lista de colores
 
-*Amarillo
-*Azul
-*Rojo
-*Verde
+* Amarillo
+* Azul
+* Rojo
+* Verde
 
